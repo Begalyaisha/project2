@@ -1,0 +1,36 @@
+15-Feb-2024 02:05:29.670 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Имя версии сервера:    Apache Tomcat/10.1.18
+15-Feb-2024 02:05:29.676 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Сервер собран:         Jan 5 2024 14:39:40 UTC
+15-Feb-2024 02:05:29.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Номер версии сервера:  10.1.18.0
+15-Feb-2024 02:05:29.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+15-Feb-2024 02:05:29.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия ОС:             10.0
+15-Feb-2024 02:05:29.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Архитектура:           amd64
+15-Feb-2024 02:05:29.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-11
+15-Feb-2024 02:05:29.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Версия JVM:            11.0.19+9-LTS-224
+15-Feb-2024 02:05:29.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Производитель JVM:     Oracle Corporation
+15-Feb-2024 02:05:29.677 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Lenovo\IdeaProjects\project2
+15-Feb-2024 02:05:29.678 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Lenovo\apache-tomcat-10.1.18\apache-tomcat-10.1.18
+15-Feb-2024 02:05:29.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Feb-2024 02:05:29.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Feb-2024 02:05:29.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Feb-2024 02:05:29.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Feb-2024 02:05:29.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Feb-2024 02:05:29.692 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Lenovo\apache-tomcat-10.1.18\apache-tomcat-10.1.18
+15-Feb-2024 02:05:29.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Lenovo\IdeaProjects\project2
+15-Feb-2024 02:05:29.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Lenovo\IdeaProjects\project2\temp
+15-Feb-2024 02:05:29.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Lenovo\IdeaProjects\project2\conf\logging.properties
+15-Feb-2024 02:05:29.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Feb-2024 02:05:29.693 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\lib\idea_rt.jar=54902:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.4\bin
+15-Feb-2024 02:05:29.694 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Feb-2024 02:05:29.704 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\7-Zip;"%JAVA_HOME%;";C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Lenovo\AppData\Local\Microsoft\WindowsApps;C:\Users\Lenovo\.dotnet\tools;C:\Program Files\Azure Data Studio\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.2\bin;;C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.3\bin;;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.4\bin;;.]
+15-Feb-2024 02:05:29.963 INFO [main] org.apache.coyote.AbstractProtocol.init Инициализация ProtocolHandler ["http-nio-8081"]
+15-Feb-2024 02:05:29.992 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [539] milliseconds
+15-Feb-2024 02:05:30.048 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Feb-2024 02:05:30.048 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.18]
+15-Feb-2024 02:05:30.062 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\Lenovo\IdeaProjects\project2\conf\Catalina\localhost\project2.xml]
+15-Feb-2024 02:05:30.519 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\Lenovo\IdeaProjects\project2\conf\Catalina\localhost\project2.xml] has finished in [455] ms
+15-Feb-2024 02:05:30.525 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8081"]
+15-Feb-2024 02:05:30.593 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [600] milliseconds
+15-Feb-2024 02:10:06.949 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8081"]
+15-Feb-2024 02:10:07.328 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Feb-2024 02:10:07.396 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8081"]
+15-Feb-2024 02:10:07.415 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8081"]
