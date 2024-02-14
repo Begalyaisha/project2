@@ -13,4 +13,6 @@ public class Main {
         // Выводим обновленную информацию о пользователе
         System.out.println("Updated Password: " + user.getPassword());
     }
+
 }
+
